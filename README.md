@@ -73,4 +73,4 @@ Example: If someone was acquired in Jan-2022 but skipped Feb-2022 and proceeded 
 
 ## References
 
-[Customer Churn Analysis with Tableay | 365 Data Science - Elitsa Kaloyanova](https://365datascience.com/)
+[Customer Churn Analysis with Tableau | 365 Data Science - Elitsa Kaloyanova](https://365datascience.com/)
